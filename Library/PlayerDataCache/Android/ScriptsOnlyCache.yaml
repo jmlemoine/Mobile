@@ -28,14 +28,18 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Text
     - UnityEngine.UI.Toggle
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/SpeedTutor_Full_Menu_System/Scenes/Escenario.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
       Script: {instanceID: 0}
     - Class: 20
       Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
     - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -44,6 +48,10 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
       Script: {instanceID: 0}
     Assets/SpeedTutor_Full_Menu_System/Scenes/Level1_Demo.unity:
     - Class: 1
@@ -776,5 +784,5 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/SpeedTutor_Full_Menu_System/Scenes/MainMenu.unity
   - Assets/SpeedTutor_Full_Menu_System/Scenes/Level1_Demo.unity
-  - Assets/Scenes/SampleScene.unity
+  - Assets/SpeedTutor_Full_Menu_System/Scenes/Escenario.unity
   playerPath: C:/Users/jean_/OneDrive/Escritorio/Unity/Mobile/Mobile.apk
